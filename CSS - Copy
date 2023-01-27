@@ -1,0 +1,18 @@
+h1{
+    color: pink;
+    text-align: center;
+}
+
+
+.email{
+
+    color: beige;
+    outline: brown;
+    bottom: 10em;
+
+}
+
+#para1{
+    text-align: center;
+    color: blue;
+}
